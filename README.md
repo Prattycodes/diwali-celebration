@@ -11,3 +11,6 @@ A responsive, front-end-only Diwali celebration built with HTML, CSS, and JavaSc
 5. Stop the server with `Ctrl+C`.
 
 No npm install or build step is required. Google Fonts are optional; the page uses system fallbacks when offline.
+<img width="1865" height="866" alt="image" src="https://github.com/user-attachments/assets/8410ee78-4a3a-41ea-abfb-364d6a2d6051" />
+<img width="1353" height="573" alt="image" src="https://github.com/user-attachments/assets/3fdeadc5-9456-4aa0-8ea3-6e2082a3f982" />
+<img width="1150" height="652" alt="image" src="https://github.com/user-attachments/assets/80dd3417-f0e5-480f-b1f2-339ef7fc8ebf" />
